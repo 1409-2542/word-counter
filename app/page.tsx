@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import Head from 'next/head';
 import { saveAs } from 'file-saver';
 import { useTheme } from 'next-themes';
